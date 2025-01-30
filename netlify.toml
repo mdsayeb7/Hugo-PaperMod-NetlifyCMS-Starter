@@ -3,6 +3,6 @@
   publish = "public"
 
 [context.production.environment]
-  HUGO_VERSION = "0.121.1" # Change to your Hugo version
+  HUGO_VERSION = "0.125.7" 
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
