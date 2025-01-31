@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseURL: "/" 
 title: PaperMod
 paginate: 5
@@ -228,3 +229,12 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+=======
+baseURL: ""
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
+
+minify:
+  disableFingerprinting = true
+>>>>>>> repo3/main
