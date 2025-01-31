@@ -19,7 +19,11 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ---
 
-
+<<<<<<< HEAD
+Your version of the file
+=======
+The version from repo2
+>>>>>>> repo2/main
 
 <br>
 

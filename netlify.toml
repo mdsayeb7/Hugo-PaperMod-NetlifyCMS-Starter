@@ -3,4 +3,8 @@
   publish = "public"
 
 [context.production.environment]
-  HUGO_VERSION = "0.141.0"  # Use the latest stable version
+<<<<<<< HEAD
+Your version of the file
+=======
+The version from repo2
+>>>>>>> repo2/main

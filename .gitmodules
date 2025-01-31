@@ -1,4 +1,6 @@
-[submodule "themes/PaperMod"]
-  path = themes/PaperMod
-  url = https://github.com/adityatelange/hugo-PaperMod.git
-  branch = main
+[submodule "themes/PaperMod"]<<<<<<< HEAD
+Your version of the file
+=======
+The version from repo2
+>>>>>>> repo2/main
+
